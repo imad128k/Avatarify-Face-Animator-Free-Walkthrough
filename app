@@ -4,8 +4,8 @@
       
       "NetworkAds" : "Facebook",
 
-    "AdmobBanner" : "ca-app-pub-3898990165445847/9410633117",
-	"AdmobInterstitial" : "ca-app-pub-3898990165445847/1546609052",
+    "AdmobBanner" : "",
+	"AdmobInterstitial" : "",
 	
 	"FacebookbBanner" : "908238189999926_908240043333074",
 	"FacebookbSelectBanner" : "908238189999926_908240843332994",
